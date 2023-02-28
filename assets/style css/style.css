@@ -75,7 +75,10 @@ div img{
 div{
 	display: inline-block;
 }
-p{
+section p{
+	display: block;
+	margin: auto;
+	max-width: 951px;
 	font-size: 16px;
 	color: #171717;
 	font-family: "regular";
@@ -95,7 +98,7 @@ p{
 	padding: 18px 77px 18px 57px;
 	border-radius: 28px;
 	background-color: #0A22F4;
-	width: 341px;
+	width: 345px;
 	display: block;
 	margin: auto;
 }
